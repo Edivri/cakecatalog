@@ -2,4 +2,4 @@
  A Cake Catalog
 ## Screenshot
 
-<img src="cake.png">
+<img src="assets/cake.png">
